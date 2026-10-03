@@ -1,0 +1,19 @@
+{
+  "columns": {
+    "ho_ten":          {"method": "pseudonym", "prefix": "Agent"},
+    "ma_nv":           {"method": "token", "prefix": "NV",  "normalize": true},
+    "ma_tong_dai":     {"method": "token", "prefix": "EXT", "normalize": true},
+    "ma_agent":        {"method": "token", "prefix": "EXT", "normalize": true},
+    "ma_khach_hang":   {"method": "token", "prefix": "KH",  "normalize": true},
+    "ngay_vao_lam":    {"method": "date_month"},
+    "so_dien_thoai":   {"method": "mask", "keep_last": 3},
+    "email":           {"method": "redact"},
+    "ngay_sinh":       {"method": "year"},
+    "dia_chi":         {"method": "drop"},
+    "ghi_chu_ket_qua": {"method": "scan"},
+    "team":            {"method": "keep"},
+    "du_an":           {"method": "keep"}
+  },
+  "auto_scan_unlisted": true,
+  "scan_types": ["EMAIL", "CCCD", "CARD", "PHONE", "IP"]
+}

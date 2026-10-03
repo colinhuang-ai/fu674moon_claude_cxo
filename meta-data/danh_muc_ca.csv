@@ -1,0 +1,5 @@
+﻿ma_ca,gio_bat_dau,gio_ket_thuc,nghi_giua_ca_phut,qua_dem,mo_ta
+S,08:00,17:00,60,Không,Ca sáng/hành chính
+C,13:00,22:00,60,Không,Ca chiều
+D,22:00,06:00,30,Có,Ca đêm (qua ngày)
+PT,17:00,21:00,0,Không,Bán thời gian 4 giờ

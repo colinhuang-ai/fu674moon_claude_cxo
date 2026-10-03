@@ -1,0 +1,46 @@
+{
+  "pseudonym": {
+    "Agent": {
+      "TRẦNMINHANH": "Agent_001",
+      "LÊTHUHÀ": "Agent_002",
+      "PHẠMQUỐCBẢO": "Agent_003",
+      "HOÀNGNGỌCLAN": "Agent_004",
+      "VŨĐỨCHUY": "Agent_005",
+      "ĐẶNGPHƯƠNGTHẢO": "Agent_006",
+      "BÙIGIAHÂN": "Agent_007",
+      "ĐỖTUẤNKIỆT": "Agent_008",
+      "NGÔHẢIYẾN": "Agent_009",
+      "NGUYỄNVĂNLONG": "Agent_010",
+      "TRẦNKHÁNHLINH": "Agent_011",
+      "LÊTHANHTÙNG": "Agent_012",
+      "PHẠMMAICHI": "Agent_013",
+      "HOÀNGHOÀNGNAM": "Agent_014",
+      "VŨBÍCHNGỌC": "Agent_015",
+      "ĐẶNGANHTHƯ": "Agent_016",
+      "BÙITRỌNGNHÂN": "Agent_017",
+      "ĐỖDIỆULINH": "Agent_018",
+      "NGÔCÔNGVINH": "Agent_019"
+    }
+  },
+  "known_names": {
+    "Trần Minh Anh": "Agent_001",
+    "Lê Thu Hà": "Agent_002",
+    "Phạm Quốc Bảo": "Agent_003",
+    "Hoàng Ngọc Lan": "Agent_004",
+    "Vũ Đức Huy": "Agent_005",
+    "Đặng Phương Thảo": "Agent_006",
+    "Bùi Gia Hân": "Agent_007",
+    "Đỗ Tuấn Kiệt": "Agent_008",
+    "Ngô Hải Yến": "Agent_009",
+    "Nguyễn Văn Long": "Agent_010",
+    "Trần Khánh Linh": "Agent_011",
+    "Lê Thanh Tùng": "Agent_012",
+    "Phạm Mai Chi": "Agent_013",
+    "Hoàng Hoàng Nam": "Agent_014",
+    "Vũ Bích Ngọc": "Agent_015",
+    "Đặng Anh Thư": "Agent_016",
+    "Bùi Trọng Nhân": "Agent_017",
+    "Đỗ Diệu Linh": "Agent_018",
+    "Ngô Công Vinh": "Agent_019"
+  }
+}

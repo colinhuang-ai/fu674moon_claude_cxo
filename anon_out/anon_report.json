@@ -1,0 +1,48 @@
+{
+  "files": [
+    {
+      "file": "meta-data\\danh_muc_ca.csv",
+      "columns": {},
+      "rows": 4,
+      "output": "anon_out\\danh_muc_ca_anon.csv"
+    },
+    {
+      "file": "meta-data\\danh_sach_agent.csv",
+      "columns": {
+        "ho_ten": {
+          "method": "pseudonym",
+          "changed_cells": 19
+        },
+        "ma_nv": {
+          "method": "token",
+          "changed_cells": 19
+        },
+        "ma_tong_dai": {
+          "method": "token",
+          "changed_cells": 18
+        },
+        "team": {
+          "method": "keep",
+          "changed_cells": 0
+        },
+        "du_an": {
+          "method": "keep",
+          "changed_cells": 0
+        },
+        "ngay_vao_lam": {
+          "method": "date_month",
+          "changed_cells": 19
+        }
+      },
+      "rows": 19,
+      "output": "anon_out\\danh_sach_agent_anon.csv"
+    },
+    {
+      "file": "meta-data\\danh_sach_du_an.csv",
+      "columns": {},
+      "rows": 2,
+      "output": "anon_out\\danh_sach_du_an_anon.csv"
+    }
+  ],
+  "scan_hits": {}
+}
