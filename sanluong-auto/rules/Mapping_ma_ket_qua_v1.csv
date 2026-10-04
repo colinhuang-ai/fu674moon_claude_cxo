@@ -1,0 +1,51 @@
+﻿ghi_chu_goc,trang_thai_ket_noi,cap2
+Thành công,CONNECTED,Thành công
+thanh cong,CONNECTED,Thành công
+TC,CONNECTED,Thành công
+chốt đơn,CONNECTED,Thành công
+ok chốt,CONNECTED,Thành công
+đồng ý mua,CONNECTED,Thành công
+Thành công - gói Gold,CONNECTED,Thành công
+Hẹn gọi lại,CONNECTED,Hẹn gọi lại
+hen goi lai,CONNECTED,Hẹn gọi lại
+HGL,CONNECTED,Hẹn gọi lại
+khách bận hẹn mai,CONNECTED,Hẹn gọi lại
+gọi lại sau 3h,CONNECTED,Hẹn gọi lại
+hẹn tối gọi lại,CONNECTED,Hẹn gọi lại
+cân nhắc thêm,CONNECTED,Đang cân nhắc
+để suy nghĩ,CONNECTED,Đang cân nhắc
+gửi thông tin qua zalo,CONNECTED,Đang cân nhắc
+Từ chối,CONNECTED,Từ chối
+ko quan tâm,CONNECTED,Từ chối
+không có nhu cầu,CONNECTED,Từ chối
+KH từ chối,CONNECTED,Từ chối
+không muốn nghe,CONNECTED,Từ chối
+đã mua rồi,CONNECTED,Đã có sản phẩm
+khách chửi,CONNECTED,Không gọi lại (DNC)
+sai người,CONNECTED,Sai người
+trẻ con nghe máy,CONNECTED,Sai người
+nhầm số,CONNECTED,Sai người
+Sai số,CONNECTED,Sai người
+ok,CONNECTED,Chưa xác định
+KNM,NO_ANSWER,Không nghe máy
+ko nghe,NO_ANSWER,Không nghe máy
+không bắt máy,NO_ANSWER,Không nghe máy
+Không nghe máy,NO_ANSWER,Không nghe máy
+(trống),NO_ANSWER,Không nghe máy
+bận,BUSY,Máy bận
+Máy bận,BUSY,Máy bận
+thuê bao bận,BUSY,Máy bận
+thuê bao tạm khóa,FAILED,Thuê bao
+tb không liên lạc được,FAILED,Thuê bao
+Thuê bao,FAILED,Thuê bao
+số không tồn tại,FAILED,Sai số
+Sai số,FAILED,Sai số
+Giải quyết xong,ANSWERED,Giải quyết xong
+tra cứu cước,ANSWERED,Tư vấn / tra cứu
+KH hỏi khuyến mãi,ANSWERED,Tư vấn / tra cứu
+Hỗ trợ đổi gói,ANSWERED,Hỗ trợ dịch vụ
+hướng dẫn cài đặt,ANSWERED,Hỗ trợ dịch vụ
+Khiếu nại - chuyển cấp 2,ANSWERED,Khiếu nại – chuyển cấp 2
+Chuyển tiếp,ANSWERED,Chuyển tiếp (kỹ thuật)
+rớt cuộc gọi,ANSWERED,Rớt cuộc gọi
+(trống),ABANDONED,Khách bỏ máy

@@ -1,0 +1,25 @@
+{
+  "phien_ban": "v1",
+  "tham_chieu": {
+    "bang_noi_ma":        "ref/bang_noi_ma.csv",
+    "danh_sach_du_an":    "ref/danh_sach_du_an.csv",
+    "danh_muc_ca":        "ref/danh_muc_ca.csv",
+    "mapping_ma_ket_qua": "rules/Mapping_ma_ket_qua_v1.csv"
+  },
+  "tham_so": {
+    "treo_line_giay": 7200
+  },
+  "huong": {
+    "IN":  {"hang_doi": "IB-CSKH",    "du_an": "CS-VT", "trang_thai": ["ANSWERED", "ABANDONED"]},
+    "OUT": {"hang_doi": "OB-BAOHIEM", "du_an": "TS-BH", "trang_thai": ["CONNECTED", "NO_ANSWER", "BUSY", "FAILED"]}
+  },
+  "trang_thai_da_ket_noi": ["ANSWERED", "CONNECTED"],
+  "cap1_theo_trang_thai": {
+    "CONNECTED": "Liên hệ được",
+    "NO_ANSWER": "Không liên hệ được",
+    "BUSY":      "Không liên hệ được",
+    "FAILED":    "Không liên hệ được",
+    "ANSWERED":  "Được nghe",
+    "ABANDONED": "Bỏ máy"
+  }
+}

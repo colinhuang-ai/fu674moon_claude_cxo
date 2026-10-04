@@ -1,0 +1,13 @@
+# Cấu hình & khóa — không commit
+.env
+*.key
+*.pem
+
+# Dữ liệu thật/mẫu và kết quả — không commit
+data/
+output/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
